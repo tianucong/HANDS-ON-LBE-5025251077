@@ -1,2 +1,5 @@
 Nama : Bastian Gerry Simangunsong
-DEPART : TC
+
+depart : tc
+NRP : 5025251077
+
